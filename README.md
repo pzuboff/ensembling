@@ -1,4 +1,4 @@
-# [ensembling](https://github.com/pzuboff/densembling/blob/main/)<br/>
+# [ensembling](https://github.com/pzuboff/ensembling/blob/main/)<br/>
 Применение на практике базовых ансамблевых методов
 
 | Название проекта | Описание | Используемые библиотеки | 
